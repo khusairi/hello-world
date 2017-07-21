@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi People!
+i want to learn about tech
